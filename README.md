@@ -29,6 +29,7 @@
 - Including both **20 lightweight ~7B models (e.g., Qwen3-8B, DeepSeek-R1-0528-Qwen3-8B)** and **13 flagship models (e.g., GPT-5, Gemini-2.5-Pro)**.
 - Providing **inference costs from OpenRouter** for all flagship models, including both USD and tokens.
 - Offering a **unified, plug-and-play framework** for fair cross-method comparisons.
+- Integrating **nine published routing algorithms** and supporting evaluation of commercial routing services such as OpenRouter.
 - Supporting **both performance and performance-cost routing paradigms**.
 - Releasing **complete data** with per-prompt, per-model predictions and evaluations.
 
